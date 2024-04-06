@@ -1,0 +1,7 @@
+0 - Ambient
+1 - Broadway
+2 - Classical
+3 - Rock
+4 - Synthwave
+5 - Phonk
+6 - Jazz
